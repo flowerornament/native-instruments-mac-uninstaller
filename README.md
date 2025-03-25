@@ -4,7 +4,9 @@ Vibe-coded shell script to safely uninstall Native Instruments content on Mac âœ
 
 ## Back-story
 
-For years I've had various Native Instruments packages on my machines in various states of disrepair, unable to be either repaired or removed by the Native Access app. This is a script vibe-coded with Claude that, as far as I can tell, safely removes any app, instrument, or effect you want.
+For years I've had various broken Native Instruments packages on my machines unable to be repaired or removed by the Native Access app.
+
+As far as I can tell, this script safely removes any app, instrument, or effect you want.
 
 ## Good to know
 
